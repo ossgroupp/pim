@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.libertytree
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [agorapulse-micronaut-worker, annotation-api, app-name, awaitility, data, data-jpa, discovery-eureka, email-javamail, email-template, graphql, h2, http-client, jackson-databind, java, java-application, jax-rs, jax-rs-security, jdbc-hikari, junit, lombok, management, maven, micrometer, micrometer-annotation, micrometer-atlas, micronaut-aot, microstream, microstream-rest, mockito, mongo-reactive, multi-tenancy, netflix-archaius, openapi, problem-json, properties, readme, rxjava3, rxjava3-http-client, security, security-annotations, security-jwt, security-oauth2, security-session, serialization-bson, serialization-jackson, serialization-jsonp, shade, slf4j-simple, spring, spring-boot, spring-data-jpa, spring-web, test-resources, undertow-server]
